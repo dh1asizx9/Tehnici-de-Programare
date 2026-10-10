@@ -1,0 +1,16 @@
+{
+  "url": "https://cybercor.org/",
+  "status_code": 200,
+  "title": "CYBERCOR",
+  "ip_address": "104.21.91.71",
+  "redirects": [
+    "http://cybercor.org/",
+    "https://cybercor.org/"
+  ],
+  "security_score": "5 / 4",
+  "cert_days_left": 53,
+  "internal_links": 1,
+  "external_links": 0,
+  "disallowed_paths": [],
+  "generated_at": "2026-10-10T20:58:16.053499+00:00"
+}
